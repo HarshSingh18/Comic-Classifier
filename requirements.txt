@@ -3,4 +3,4 @@ streamlit
 numpy
 matplotlib
 Pillow
-tensorflow-hub
+tensorflow_hub
